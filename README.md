@@ -33,7 +33,6 @@ Actuellement en fin de **BTS SIO (SLAM)** au Lycée Chevrollier et futur étudia
 ---
 
 ### 📊 Statistiques GitHub
-![Stats de Sasha](https://github-readme-stats.vercel.app/api?username=Nakou20&show_icons=true&theme=tokyonight)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakou20&layout=compact&theme=tokyonight)
 
 ---
