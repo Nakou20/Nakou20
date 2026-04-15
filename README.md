@@ -1,41 +1,47 @@
+# Salut, je suis Sasha Mangin ! 🚀
 
-> **"Le code, c'est comme l'humour. Si tu dois l'expliquer, c'est qu'il est mauvais."** > — *Inconnu (mais probablement quelqu'un de fatigué par le débuggage)*
-
----
-
-### 🚀 À propos de moi
-
-Je suis un passionné de développement basé à **[Ta Ville/Pays]**. J'aime transformer des idées complexes en lignes de code élégantes (et parfois me battre avec des points-virgules manquants).
-
-* 🔭 Je travaille actuellement sur **[Nom du Projet]**
-* 🌱 J'apprends en ce moment **[Langage ou Framework]**
-* 💬 Pose-moi des questions sur **[Tes domaines d'expertise]**
-* ⚡ Fait amusant : **[Une anecdote courte, ex: Je bois plus de café que mon IDE n'affiche d'erreurs]**
+### 👨‍💻 Développeur Full-Stack & Futur Data Analyst
+Actuellement en fin de **BTS SIO (SLAM)** au Lycée Chevrollier et futur étudiant en **Bachelor Data Analyst** à MyDigitalSchool Angers, je me passionne pour la transformation des données et le développement d'applications robustes. Mon objectif à terme : devenir **Ingénieur en Data Science**.
 
 ---
 
-### 🛠 Mon arsenal technique
+### 🌟 En bref
+- 💼 **Alternant Développeur Web** au sein du Groupe scolaire Saint Aubin La Salle (Refonte de site, maintenance).
+- 🎓 **Cursus** : Spécialisation en Solutions Logicielles et Applications Métiers (SLAM).
+- 🔭 **Projets actuels** : Exploration des **Agents IA** et perfectionnement sur l'écosystème **Laravel**.
+- 📍 Basé à **Angers, France**.
 
-| Catégorie | Technologies |
+---
+
+### 🛠 Mon Arsenal Technique
+
+| Domaine | Technologies & Outils |
 | :--- | :--- |
-| **Langages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Langages** | ![PHP](https://img.shields.io/badge/-PHP_8.4-777BB4?style=flat&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Bases de Données** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Outils & DevOp** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 ---
 
-### 📊 Mes statistiques GitHub
+### 📈 Expériences & Réalisations
+- [cite_start]**Développement Web** : Conception de sites dynamiques avec PHP (structure MVC), Laravel (Eloquent ORM) et CMS (WordPress, Shopify)[cite: 14, 19, 20].
+- [cite_start]**Applications Mobiles** : Création d'interfaces avec Flutter & Dart[cite: 14].
+- [cite_start]**Gestion de Données** : Modélisation de bases SQL et NoSQL pour des solutions d'entreprise[cite: 14].
+- [cite_start]**Projet Phare** : Refonte complète du site internet de Saint Aubin La Salle (Optimisation SEO, interactivité accrue)[cite: 19].
 
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=[TON_USERNAME]&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_USERNAME]&layout=compact&theme=radical)
+---
+
+### 📊 Statistiques GitHub
+![Stats de Sasha](https://github-readme-stats.vercel.app/api?username=SashaMangin&show_icons=true&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaMangin&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Me contacter
-
-* **LinkedIn :** [https://www.linkedin.com/in/sasha-mangin-95ba8036b/]
-* **Portfolio :** [Voir Repo]
+### 📫 Contactez-moi
+- 📧 **Email** : sashamangin2006@gmail.com
+- 💼 **LinkedIn** : [https://www.linkedin.com/in/sasha-mangin-95ba8036b/]
+- 🚗 *Titulaire du permis B et A2*
 
 ---
-*Dernière mise à jour : Avril 2026*
+*"Le succès est une question de temps quand on travaille chaque jour vers ses objectifs."*
