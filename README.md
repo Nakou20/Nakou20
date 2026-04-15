@@ -34,9 +34,8 @@ Je suis un passionné de développement basé à **[Ta Ville/Pays]**. J'aime tra
 
 ### 📫 Me contacter
 
-* **LinkedIn :** [Lien vers ton profil]
-* **Portfolio :** [Lien vers ton site]
-* **Email :** [Ton adresse email]
+* **LinkedIn :** [https://www.linkedin.com/in/sasha-mangin-95ba8036b/]
+* **Portfolio :** [Voir Repo]
 
 ---
 *Dernière mise à jour : Avril 2026*
