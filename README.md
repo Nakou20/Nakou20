@@ -25,11 +25,11 @@ Actuellement en fin de **BTS SIO (SLAM)** au Lycée Chevrollier et futur étudia
 ---
 
 ### 📈 Expériences & Réalisations
-- [cite_start]**Développement Web** : Conception de sites dynamiques avec PHP (structure MVC), Laravel (Eloquent ORM) et CMS (WordPress, Shopify)[cite: 14, 19, 20].
-- [cite_start]**Applications Mobiles** : Création d'interfaces avec Flutter & Dart[cite: 14].
-- [cite_start]**Gestion de Données** : Modélisation de bases SQL et NoSQL pour des solutions d'entreprise[cite: 14].
-- [cite_start]**Projet Phare** : Refonte complète du site internet de Saint Aubin La Salle (Optimisation SEO, interactivité accrue)[cite: 19].
-
+* **Développement Web** : Conception de sites dynamiques avec PHP (structure MVC), Laravel (Eloquent ORM) et CMS (WordPress, Shopify).
+* **Applications Mobiles** : Création d'interfaces avec Flutter & Dart.
+* **Gestion de Données** : Modélisation de bases SQL et NoSQL pour des solutions d'entreprise.
+* **Projet Phare** : Refonte complète du site internet de Saint Aubin La Salle (Optimisation SEO, interactivité accrue).
+  
 ---
 
 ### 📊 Statistiques GitHub
