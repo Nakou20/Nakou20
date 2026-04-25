@@ -39,7 +39,7 @@ Actuellement en fin de **BTS SIO (SLAM)** au Lycée Chevrollier et futur étudia
 
 ### 📫 Contactez-moi
 - 📧 **Email** : sashamangin2006@gmail.com
-- 💼 **LinkedIn** : [https://www.linkedin.com/in/sasha-mangin-95ba8036b/]
+- 💼 **LinkedIn** : https://www.linkedin.com/in/sasha-mangin-95ba8036b/
 - 🚗 *Titulaire du permis B et A2*
 
 ---
