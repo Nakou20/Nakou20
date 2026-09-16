@@ -1,14 +1,14 @@
 # Salut, je suis Sasha Mangin ! 
 
-###  Développeur Full-Stack & Futur Data Analyst
-Actuellement en fin de **BTS SIO (SLAM)** au Lycée Chevrollier et futur étudiant en **Bachelor Data Analyst** à MyDigitalSchool Angers, je me passionne pour la transformation des données et le développement d'applications robustes. Mon objectif à terme : devenir **Ingénieur en Data Science**.
+###  Développeur Full-Stack &  Data Analyst
+Actuellement en **Bachelor Data Analyst** à MyDigitalSchool Angers, je me passionne pour la transformation des données et le développement d'applications robustes. Mon objectif à terme : devenir **Ingénieur en Data Science**.
 
 ---
 
 ###  En bref
-- 💼 **Alternant Développeur Web** au sein du Groupe scolaire Saint Aubin La Salle (Refonte de site, maintenance).
+- 💼 **Alternant Développeur Web** au sein du Groupe Vilmorin Mikado.
 - 🎓 **Cursus** : Spécialisation en Solutions Logicielles et Applications Métiers (SLAM).
-- 🔭 **Projets actuels** : Exploration des **Agents IA** et perfectionnement sur l'écosystème **Laravel**.
+- 🔭 **Projets actuels** : Exploration des **Agents IA** et perfectionnement sur **PowerBi**.
 - 📍 Basé à **Angers, France**.
 
 ---
