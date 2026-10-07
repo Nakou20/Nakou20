@@ -6,8 +6,8 @@ Actuellement en **Bachelor Data Analyst** à MyDigitalSchool Angers, je me passi
 ---
 
 ###  En bref
-- 💼 **Alternant Développeur Web** au sein du Groupe Vilmorin Mikado.
-- 🎓 **Cursus** : Spécialisation en Solutions Logicielles et Applications Métiers (SLAM).
+- 💼 **Alternant Data Analyst** au sein du Groupe Vilmorin Mikado.
+- 🎓 **Cursus** : Bachelor Data Anlayst et IA .
 - 🔭 **Projets actuels** : Exploration des **Agents IA** et perfectionnement sur **PowerBi**.
 - 📍 Basé à **Angers, France**.
 
